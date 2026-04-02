@@ -47,3 +47,6 @@ A 卡无法直接使用 CUDA，导致初期报错。通过引入 DirectML 插件
 
 ### 超参数调优：
 结合 BPE 词表优化与余弦退火学习率策略，模型生成的文本逻辑性显著增强，Loss 最终稳定在 1.5。
+
+# Assignment 2
+to be continued
